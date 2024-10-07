@@ -1,0 +1,1 @@
+# Auto-Closure-Jira-Tickets-For-GitLab-Vulnerabilities
