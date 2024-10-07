@@ -13,17 +13,24 @@ This repository contains an automation tool that integrates Jira and GitLab APIs
 
 **External Dependencies**
 Jira API: Jira account credentials and API token are required to interact with Jira.
+
 GitLab API: GitLab personal access token is required for fetching vulnerability data.
+
 Excel File: To read ticket keys from Excel files and process them.
 
 **Setup Authentication**
 Before running the scripts, make sure to update the following credentials in the script:
 
 JIRA_API_TOKEN: Your Jira API token.
+
 JIRA_EMAIL: Your Jira email.
+
 JIRA_BASE_URL: Your Jira instance URL.
+
 gitlab_api_token: Your GitLab personal access token.
+
 gitlab_base_url: GitLab API base URL.
+
 resolved_status_id = ""  # Replace with your actual transition ID
 
 
