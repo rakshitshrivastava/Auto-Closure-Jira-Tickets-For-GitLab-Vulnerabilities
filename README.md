@@ -68,12 +68,15 @@ take_screenshot_of_api_response(api_response, screenshot_name): Takes a screensh
 
 How to run the script and It's output 
 
-![image](https://github.com/user-attachments/assets/c3b556de-9048-4dd3-b4ee-ce6ec0e3c847)
 
 
 
+![image](https://github.com/user-attachments/assets/fcb81c1f-502f-4b81-a072-dfb357756174)
 
 
-![image](https://github.com/user-attachments/assets/03c435fa-4321-43d8-af90-50a17d813159)
+
+![image](https://github.com/user-attachments/assets/72196350-6b8b-4120-9f1b-15fd5267c378)
+
+
 
 
