@@ -286,7 +286,7 @@ def main():
 
             # Change the issue status if vulnerabilities are resolved
             if resolved_vulns:
-                resolved_status_id = "761"  # Replace with your actual transition ID
+                resolved_status_id = ""  # Replace with your actual transition ID
                 if change_issue_status(ISSUE_KEY, resolved_status_id):  # Implement this function
                     logger.info(f"Issue {ISSUE_KEY} status changed to resolved due to vulnerabilities: {resolved_vulns}")
 
